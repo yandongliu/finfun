@@ -1,0 +1,160 @@
+Checking if we can resume a old download session
+Downloader found on disk, resuming
+Downloading Stock
+
+req https://finance.yahoo.com/lookup/?m=ALL&s=a&t=S&r=&b=260
+Got 20 downloaded Stock symbols:
+ Stock DLPH NYQ Delphi Automotive PLC
+ Stock ADAC PNK Adama Technologies Corp.
+  ect...
+Progress: Query 0/26. Items handled in current query: 280/24129. Total collected unique Stock entries: 280
+
+req https://finance.yahoo.com/lookup/?m=ALL&s=a&t=S&r=&b=280
+Got 20 downloaded Stock symbols:
+ Stock ETH NYQ Ethan Allen Interiors Inc.
+ Stock AZPN NMS Aspen Technology, Inc.
+  ect...
+Progress: Query 0/26. Items handled in current query: 300/24129. Total collected unique Stock entries: 300
+
+req https://finance.yahoo.com/lookup/?m=ALL&s=a&t=S&r=&b=300
+Got 20 downloaded Stock symbols:
+ Stock DAVE NMS Famous Dave's of America Inc.
+ Stock CVU ASE CPI Aerostructures Inc.
+  ect...
+Progress: Query 0/26. Items handled in current query: 320/24129. Total collected unique Stock entries: 320
+
+req https://finance.yahoo.com/lookup/?m=ALL&s=a&t=S&r=&b=320
+Got 20 downloaded Stock symbols:
+ Stock ABG NYQ Asbury Automotive Group, Inc.
+ Stock ZX NYQ China Zenix Auto International Limited
+  ect...
+Progress: Query 0/26. Items handled in current query: 340/24129. Total collected unique Stock entries: 340
+
+req https://finance.yahoo.com/lookup/?m=ALL&s=a&t=S&r=&b=340
+Got 20 downloaded Stock symbols:
+ Stock AGI NYQ Alamos Gold, Inc.
+ Stock AER NYQ AerCap Holdings N.V.
+  ect...
+Progress: Query 0/26. Items handled in current query: 360/24129. Total collected unique Stock entries: 360
+
+req https://finance.yahoo.com/lookup/?m=ALL&s=a&t=S&r=&b=360
+Got 20 downloaded Stock symbols:
+ Stock ARDX NGM Ardelyx, Inc.
+ Stock ARAY NMS Accuray Incorporated
+  ect...
+Progress: Query 0/26. Items handled in current query: 380/24129. Total collected unique Stock entries: 380
+
+req https://finance.yahoo.com/lookup/?m=ALL&s=a&t=S&r=&b=380
+Got 20 downloaded Stock symbols:
+ Stock RPAI NYQ Retail Properties of America, Inc.
+ Stock MANH NMS Manhattan Associates, Inc.
+  ect...
+Progress: Query 0/26. Items handled in current query: 400/24129. Total collected unique Stock entries: 400
+
+req https://finance.yahoo.com/lookup/?m=ALL&s=a&t=S&r=&b=400
+Got 20 downloaded Stock symbols:
+ Stock ADS.DE GER Adidas AG
+ Stock ZLTQ NMS ZELTIQ Aesthetics, Inc.
+  ect...
+Progress: Query 0/26. Items handled in current query: 420/24129. Total collected unique Stock entries: 420
+
+req https://finance.yahoo.com/lookup/?m=ALL&s=a&t=S&r=&b=420
+Got 20 downloaded Stock symbols:
+ Stock AGRX NGM Agile Therapeutics, Inc.
+ Stock AFAM NMS Almost Family Inc.
+  ect...
+Progress: Query 0/26. Items handled in current query: 440/24129. Total collected unique Stock entries: 440
+
+req https://finance.yahoo.com/lookup/?m=ALL&s=a&t=S&r=&b=440
+Got 0 downloaded Stock symbols:
+Progress: Query 0/26. Items handled in current query: 440/Unknown. Total collected unique Stock entries: 440
+
+req https://finance.yahoo.com/lookup/?m=ALL&s=a&t=S&r=&b=440
+Got 20 downloaded Stock symbols:
+ Stock AVG NYQ AVG Technologies N.V.
+ Stock AVD NYQ American Vanguard Corp.
+  ect...
+Progress: Query 0/26. Items handled in current query: 460/24129. Total collected unique Stock entries: 460
+
+req https://finance.yahoo.com/lookup/?m=ALL&s=a&t=S&r=&b=460
+Got 20 downloaded Stock symbols:
+ Stock RAIL NMS FreightCar America Inc.
+ Stock NSAM NYQ Northstar Asset Management Group Inc.
+  ect...
+Progress: Query 0/26. Items handled in current query: 480/24129. Total collected unique Stock entries: 480
+
+req https://finance.yahoo.com/lookup/?m=ALL&s=a&t=S&r=&b=480
+Got 20 downloaded Stock symbols:
+ Stock AAV NYQ Advantage Oil & Gas Ltd.
+ Stock AAT NYQ American Assets Trust, Inc.
+  ect...
+Progress: Query 0/26. Items handled in current query: 500/24129. Total collected unique Stock entries: 500
+
+req https://finance.yahoo.com/lookup/?m=ALL&s=a&t=S&r=&b=500
+Got 20 downloaded Stock symbols:
+ Stock ARIS NCM ARI Network Services Inc.
+ Stock ARCI NCM Appliance Recycling Centers of America Inc.
+  ect...
+Progress: Query 0/26. Items handled in current query: 520/24129. Total collected unique Stock entries: 520
+
+req https://finance.yahoo.com/lookup/?m=ALL&s=a&t=S&r=&b=520
+Got 20 downloaded Stock symbols:
+ Stock ECF ASE Ellsworth Growth and Income Fund Ltd.
+ Stock DGLY NCM Digital Ally Inc.
+  ect...
+Progress: Query 0/26. Items handled in current query: 540/24129. Total collected unique Stock entries: 540
+
+req https://finance.yahoo.com/lookup/?m=ALL&s=a&t=S&r=&b=540
+Got 20 downloaded Stock symbols:
+ Stock AHH NYQ Armada Hoffler Properties, Inc.
+ Stock AGM NYQ Federal Agricultural Mortgage Corp.
+  ect...
+Progress: Query 0/26. Items handled in current query: 560/24129. Total collected unique Stock entries: 560
+
+req https://finance.yahoo.com/lookup/?m=ALL&s=a&t=S&r=&b=560
+Got 20 downloaded Stock symbols:
+ Stock FAX ASE Aberdeen Asia-Pacific Income Fund, Inc.
+ Stock ENL NYQ Reed Elsevier NV
+  ect...
+Progress: Query 0/26. Items handled in current query: 580/24129. Total collected unique Stock entries: 580
+
+req https://finance.yahoo.com/lookup/?m=ALL&s=a&t=S&r=&b=580
+Got 20 downloaded Stock symbols:
+ Stock AKAO NGM Achaogen, Inc.
+ Stock AGHI PNK Agora Holdings, Inc.
+  ect...
+Progress: Query 0/26. Items handled in current query: 600/24129. Total collected unique Stock entries: 600
+
+req https://finance.yahoo.com/lookup/?m=ALL&s=a&t=S&r=&b=600
+Got 20 downloaded Stock symbols:
+ Stock BTI ASE British American Tobacco p.l.c.
+ Stock AXPW PNK Axion Power International Inc.
+  ect...
+Progress: Query 0/26. Items handled in current query: 620/24129. Total collected unique Stock entries: 620
+
+req https://finance.yahoo.com/lookup/?m=ALL&s=a&t=S&r=&b=620
+Got 20 downloaded Stock symbols:
+ Stock AAC NYQ AAC Holdings, Inc.
+ Stock XKE NYQ Lehman ABS Corporation Corporat
+  ect...
+Progress: Query 0/26. Items handled in current query: 640/24129. Total collected unique Stock entries: 640
+
+req https://finance.yahoo.com/lookup/?m=ALL&s=a&t=S&r=&b=640
+Got 20 downloaded Stock symbols:
+ Stock AXU ASE Alexco Resource Corporation
+ Stock AWP NYQ Alpine Global Premier Properties Fund
+  ect...
+Progress: Query 0/26. Items handled in current query: 660/24129. Total collected unique Stock entries: 660
+
+req https://finance.yahoo.com/lookup/?m=ALL&s=a&t=S&r=&b=660
+Got 0 downloaded Stock symbols:
+Progress: Query 0/26. Items handled in current query: 660/Unknown. Total collected unique Stock entries: 660
+
+req https://finance.yahoo.com/lookup/?m=ALL&s=a&t=S&r=&b=660
+Got 20 downloaded Stock symbols:
+ Stock ADX NYQ Adams Diversified Equity Fund, Inc.
+ Stock ADGE ASE American DG Energy, Inc.
+  ect...
+Progress: Query 0/26. Items handled in current query: 680/24129. Total collected unique Stock entries: 680
+
+Suspending downloader to disk
