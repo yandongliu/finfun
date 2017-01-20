@@ -11,7 +11,7 @@ from yahoo_finance import Share
 
 
 def eprint(*args, **kwargs):
-    print(*args, file=sys.stderr, **kwargs)
+    print >>sys.stderr, args, kwargs
 
 def get_random_int():
     return random.randint(1, 3)
@@ -108,8 +108,12 @@ def read_prices_from_file(fn, tickers):
     return x, bad_stocks
 
 def update_prices(fn_prices, active_stocks):
-    prices, bad_stocks = read_prices_from_file(fn_prices, active_stocks)
-    for ticker in read_active_tickers():
+    if fn_prices:
+        prices, bad_stocks = read_prices_from_file(fn_prices, active_stocks)
+    else:
+        prices = {}
+        bad_stocks = {}
+    for ticker in active_stocks:
         existing_prices = prices.get(ticker) or []
         new_prices = download_prices_to_today(ticker, existing_prices)
         if new_prices:
